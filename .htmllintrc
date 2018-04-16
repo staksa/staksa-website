@@ -1,0 +1,10 @@
+{
+  "indent-width": 2,
+  "indent-style": "spaces",
+  "class-style": "dash",
+  "tag-bans":  ["style", "b"],
+  "attr-name-style": false,
+  "id-class-style": false,
+  "attr-quote-style": false,
+  "class-style" : false
+}
