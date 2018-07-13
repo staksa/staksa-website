@@ -46,7 +46,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 @-ms-viewport {
   width: device-width; }
@@ -7404,8 +7404,8 @@ h5.card-title {
   padding-top: 0 !important; }
 
 a.card {
-  -webkit-box-shadow: 0px 0px 0px transparent;
-          box-shadow: 0px 0px 0px transparent;
+  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   -webkit-transition: -webkit-transform .2s ease, -webkit-box-shadow .2s ease;
   transition: -webkit-transform .2s ease, -webkit-box-shadow .2s ease;
   transition: transform .2s ease, box-shadow .2s ease;
@@ -8198,8 +8198,8 @@ section > .decorative-divider:first-child {
     display: none; } }
 
 .dropdown-menu {
-  -webkit-box-shadow: 0px 0px 0px transparent;
-          box-shadow: 0px 0px 0px transparent;
+  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   -webkit-transition: -webkit-box-shadow .35s ease 5s;
   transition: -webkit-box-shadow .35s ease 5s;
   transition: box-shadow .35s ease 5s;
